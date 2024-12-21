@@ -1,4 +1,4 @@
-Перейти в PowerShell'е в директорию, куда был скачан архив, в папку в test1.  
+Перейти в командной строке в директорию, куда был скачан архив, в папку в test1.  
 Запустить Docker  
 docker image build -t python-imagename .  
 docker run -p 5000:5000 -d python-imagename  
